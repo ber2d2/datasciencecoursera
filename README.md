@@ -1,2 +1,2 @@
-# datasciencecoursera
-My Data Science Repo
+# Data Science Coursera
+My Data Science Repo Exercise
